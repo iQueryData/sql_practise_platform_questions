@@ -1,8 +1,7 @@
-
-
 /*
-For every admission, display the patient's full name, their admission diagnosis, and their doctor's full name who diagnosed their problem
 
+For every admission, display the patient's full name, 
+their admission diagnosis, and their doctor's full name who diagnosed their problem
 
 */
 
